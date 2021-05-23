@@ -1,0 +1,17 @@
+@echo off
+title Antivirus
+echo Antivirus
+echo created by OCEAN OF ANYTHING
+:start
+IF EXIST virus.txt goto infected
+IF NOT EXIST virus.txt goto clean
+cd C:Windowssystem32
+:infected
+echo WARNING VIRUS DETECTED!
+del virus.bat
+pause
+goto start
+:clean
+echo System secure!
+pause
+exit
