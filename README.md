@@ -8,6 +8,7 @@ Its Name.
 
 or
 # Download Via Terminal
+
 ```
 ```
 
@@ -40,7 +41,8 @@ exit
 
 # I Prefer virus.*
 
-#Example
+# Example
+
 ```
 @echo off
 title Antivirus
