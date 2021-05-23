@@ -3,13 +3,14 @@
 This Is Not A Real Antivirus . This Is Just A Batch(.bat) File That Deletes A Particular File By
 Its Name.
 
-# [Download.zip]()
+# [Download.zip](https://github.com/OCEANOFANYTHINGOFFICIAL/homemade-bat-file-anti-virus/archive/refs/heads/main.zip)
 
 
 or
 # Download Via Terminal
 
 ```
+https://github.com/OCEANOFANYTHINGOFFICIAL/homemade-bat-file-anti-virus.git
 ```
 
 
